@@ -5,7 +5,7 @@ const SearchIndexSearcher = require('../')
 const num = require('written-number')
 const Readable = require('stream').Readable
 const batchSize = 20
-const levelup = require('levelup')
+const levelup = require('level-browserify')
 
 var sia, sis
 

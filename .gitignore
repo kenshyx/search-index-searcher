@@ -36,3 +36,4 @@ node_modules
 test/sandbox
 
 .DS_Store
+.idea
