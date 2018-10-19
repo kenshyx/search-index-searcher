@@ -2898,7 +2898,7 @@ safe-buffer@^5.0.1, safe-buffer@^5.1.1, safe-buffer@~5.1.0, safe-buffer@~5.1.1:
 
 "search-index-adder@https://github.com/kenshyx/search-index-adder":
   version "0.4.0"
-  resolved "https://github.com/kenshyx/search-index-adder#77cc4ed02c4d0b630e1d448e9391102c8bc71a5e"
+  resolved "https://github.com/kenshyx/search-index-adder#e3717cc4b651ba6746fc11ae06636ed82067972e"
   dependencies:
     JSONStream "^1.2.1"
     async "^2.3.0"
